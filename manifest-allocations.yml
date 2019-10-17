@@ -9,3 +9,5 @@ applications:
   services:
   - tracker-allocations-database
   - tracker-service-registry
+  - tracker-amqp
+  - tracker-circuit-breaker-dashboard
